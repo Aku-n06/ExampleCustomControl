@@ -7,5 +7,5 @@ Just import the files in your project
 -MainView.xib
 than add a UIView to your storyboard and set the class, in the inspector, as CustomControl
 
-![alt tag](https://github.com/scamps88/ExampleCustomControl/img1)
+![alt tag](https://github.com/scamps88/ExampleCustomControl/blob/master/README/img1.png)
 
